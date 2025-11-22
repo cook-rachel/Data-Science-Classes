@@ -88,9 +88,13 @@
 
 ### Lecture 7: Regular Expressions
 
-| Lecture 7 Notes | Supplemental Videos | Problem Set 7 |
-| --------------- | ------------------- | ------------- |
-|                 |                     |               |
+| Lecture 7 Notes         | Supplemental Videos | Problem Set 7              |
+| ----------------------- | ------------------- | -------------------------- |
+| [[Regular Expressions]] | [[Patterns]]        | [[NUMB3RS]]                |
+|                         | [[Capture Groups]]  | [[Watch on Youtube]]       |
+|                         |                     | [[Working 9 to 5]]         |
+|                         |                     | [[Regular,um,Expressions]] |
+|                         |                     | [[Response Validation]]    |
 
 
 

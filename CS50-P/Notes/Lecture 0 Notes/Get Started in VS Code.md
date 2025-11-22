@@ -16,7 +16,7 @@
 	- possibly some other steps between but finally got it to work
 	
 ## Connecting VS Code Directory to Sharkology
-- **To change directory:** cd "/Volumes/Rachel/GitHub Repos/CS50-Python"
+- **To change directory:** 
 - **To list files in that folder**: ls
 - **To run**: python hello.py
 - **Clear terminal screen**: Command (⌘) + K
