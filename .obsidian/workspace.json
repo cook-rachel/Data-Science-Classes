@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "55f0173cf93868ed",
+        "id": "ffcfc72bd4264295",
         "type": "tabs",
         "children": [
           {
-            "id": "58223167791f72da",
+            "id": "b7abe736cbd9ac43",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Class Directory.md",
+                "file": "CS50-P/Notes/Lecture 0 Notes/Functions & Variables.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Class Directory"
+              "title": "Functions & Variables"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:lecture0",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "776bbc510c5125e6",
@@ -160,62 +161,64 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "28e838c0ce215b34",
+  "active": "b7abe736cbd9ac43",
   "lastOpenFiles": [
-    "CS50-P/CS50-P Table of Contents.md",
+    "CS50-P/CS50-P.md",
     "Class Directory.md",
-    "CS50-P",
-    "Untitled 1.md",
-    "CS50-P/Notes/Lecture 7 Notes/Regular Expressions.md",
-    "CS50-P/Notes/Lecture 7 Notes/Patterns.md",
     "CS50-P/Notes/Lecture 0 Notes/Functions & Variables.md",
-    "CS50-P/Notes/Lecture 2 Notes/Loops.md",
-    "CS50-P/Notes/Lecture 7 Notes/NUMB3RS.md",
-    "CS50-P/Notes/Lecture 7 Notes/Capture Groups.md",
-    "CS50-P/Scripts/Lecture 7 Scripts/numb3rs.py",
-    "CS50-P/Scripts/Lecture 7 Scripts/lecture7.py",
-    "CS50-P/Notes/Lecture 7 Notes/Response Validation.md",
-    "CS50-P/Notes/Lecture 7 Notes/Working 9 to 5.md",
-    "Scripts/Lecture 6 Scripts/lecture7.py",
-    "CS50-P/Notes/Lecture 7 Notes/Regular,um,Expressions.md",
-    "CS50-P/Notes/Lecture 7 Notes/Watch on Youtube.md",
-    "CS50-P/Scripts/Lecture 7 Scripts/src7.zip",
-    "Scripts/Lecture 7 Scripts/Unconfirmed 970985.crdownload",
-    "Watch on Youube.md",
-    "CS50-P/Notes/Lecture 6 Notes/CS50 P-Shirt.md",
-    "CS50-P/Scripts/Lecture 6 Scripts/output2.jpg",
-    "CS50-P/Scripts/Lecture 6 Scripts/image2.jpg",
-    "Scripts/Lecture 6 Scripts/image2.jpg.crdownload",
-    "CS50-P/Notes/Lecture 6 Notes/Lines of Code.md",
-    "CS50-P/Notes/Lecture 6 Notes/File IO.md",
-    "CS50-P/Scripts/Lecture 6 Scripts/output.jpg",
-    "CS50-P/Notes/Lecture 6 Notes/Pillow.md",
-    "CS50-P/Scripts/Lecture 6 Scripts/image1.jpg",
-    "Scripts/Lecture 6 Scripts/image1.jpg.crdownload",
-    "CS50-P/Scripts/Lecture 6 Scripts/shirt.py",
-    "CS50-P/Notes/Lecture 6 Notes/Reading and Writing CSVs.md",
-    "CS50-P/Notes/Lecture 6 Notes/Reading and Writing Files.md",
-    "CS50-P/Scripts/Lecture 6 Scripts/shirt.png",
-    "Scripts/Lecture 6 Scripts/shirt.png.crdownload",
-    "CS50-P/Notes/Lecture 6 Notes/Scourgify.md",
-    "CS50-P/Notes/Lecture 6 Notes/Pizza Py.md",
-    "CS50-P/Notes/Lecture 0 Notes/Get Started in VS Code.md",
-    "CS50-P/Notes/Lecture 4 Notes/Libraries.md",
+    "CS50-P/Notes/Lecture 1 Notes/Boolean Expressions.md",
+    "CS50-P/Notes/Lecture 1 Notes/Conditionals (short).md",
     "CS50-P/Notes/Lecture 1 Notes/Conditionals.md",
-    "CS50-P/Scripts/Lecture 6 Scripts/src_readwritecsvs/9.jpeg",
-    "CS50-P/Scripts/Lecture 6 Scripts/src_readwritecsvs/8.jpeg",
-    "CS50-P/Scripts/Lecture 6 Scripts/src_readwritecsvs/7.jpeg",
-    "CS50-P/Scripts/Lecture 6 Scripts/src_readwritecsvs/6.jpeg",
-    "CS50-P/Scripts/Lecture 6 Scripts/src_readwritecsvs/4.jpeg"
+    "CS50-P/Scripts/Lecture 4 Scripts/museum_rs",
+    "CS50-P/Scripts/Lecture 4 Scripts/figlet.py",
+    "CS50-P/Scripts/Lecture 4 Scripts/__pycache__",
+    "CS50-P/Scripts/Lecture 0 Scripts/tip",
+    "CS50-P/Notes/Lecture 7 Notes/Regular,um,Expressions.md",
+    "CS50-P/Scripts/Lecture 0 Scripts/src0",
+    "CS50-P/Notes/Lecture 1 Notes/Deep Thought.md",
+    "CS50-P/Scripts/Lecture 0 Scripts/faces",
+    "CS50-P/Notes/Lecture 9 Notes/Final Project.md",
+    "CS50-P/Notes/Lecture 0 Notes/Einstein.md",
+    "CS50-P/Notes/Lecture 2 Notes/camelCase.md",
+    "CS50-P/Notes/Lecture 4 Notes/Little Professor.md",
+    "CS50-P/Notes/Lecture 3 Notes/Handling Exceptions.md",
+    "CS50-P/Notes/Lecture 6 Notes/Lines of Code.md",
+    "CS50-P/Notes/Lecture 3 Notes/Exceptions.md",
+    "CS50-P/Notes/Lecture 2 Notes/Lists.md",
+    "CS50-P/Scripts/Lecture 2 Scripts/lecture2.py",
+    "CS50-P/Notes/Lecture 2 Notes/Lists and Dictionary Comprehensions.md",
+    "CS50-P/Scripts/Lecture 1 Scripts/meal.py",
+    "CS50-P/Scripts/Lecture 3 Scripts/lecture3.py",
+    "CS50-P/Notes/Lecture 0 Notes/Tip Calculator.md",
+    "CS50-P/Notes/Lecture 1 Notes/File Extensions.md",
+    "CS50-P/Notes/Lecture 0 Notes/Get Started in VS Code.md",
+    "CS50-P/Notes/Lecture 4 Notes/Frank, Ian, and Glen's Letters.md",
+    "CS50-P/Notes/Lecture 2 Notes/Dictionaries.md",
+    "CS50-P/Scripts/Lecture 4 Scripts/emojize.py",
+    "CS50-P/Notes/Lecture 7 Notes/Capture Groups.md",
+    "CS50-P/Notes/Lecture 2 Notes/While Loops.md",
+    "CS50-P/Notes/Lecture 5 Notes/Pytest.md",
+    "CS50-P/Notes/Lecture 5 Notes/Re-requesting a Vanity Plate.md",
+    "CS50-P/images/finalproject.jpg",
+    "CS50-P/images/finalproject.jpeg",
+    "CS50-P/images/recursion.jpg",
+    "CS50-P/images/etc.jpg",
+    "CS50-P/images/shirtificate.jpg",
+    "CS50-P/images/cookiejar.jpg",
+    "CS50-P/images/seasonsoflove.jpg",
+    "CS50-P/images/background_space.jpg",
+    "CS50-P/images/instancemethods.jpg",
+    "CS50-P/images/instancevariables.jpg",
+    "Untitled.canvas"
   ]
 }

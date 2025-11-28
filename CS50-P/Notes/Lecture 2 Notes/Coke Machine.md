@@ -1,3 +1,74 @@
+---
+tags:
+  - harvard
+  - datascience
+  - python
+  - lecture2
+  - problem_set
+university: Harvard
+year: "2022"
+link: https://cs50.harvard.edu/python/psets/2/coke/
+cover: cokemachine.jpg
+description: In a file called `coke.py`, implement a program that prompts the user to insert a coin, one at a time, each time informing the user of the amount due. Once the user has inputted at least 50 cents, output how many cents in change the user is owed. Assume that the user will only input integers, and ignore any integer that isn’t an accepted denomination.
+---
+
+`BUTTON[cs50p]` `BUTTON[edX-CS50P]`
+
+```meta-bind-button
+label: Return to CS50-P
+icon: "home"
+hidden: true
+class: navigation-buttons
+tooltip: ""
+id: cs50p
+style: primary
+actions:
+  - type: open
+    link: "[[CS50-P]]"
+
+```
+```meta-bind-button
+label: CS50-P Course on edX
+icon: "globe"
+hidden: true
+class: course-navigation-buttons
+tooltip: ""
+id: "edX-CS50P"
+style: primary
+actions:
+  - type: open
+    link: "https://cs50.harvard.edu/python/"
+
+```
+```meta-bind-button
+label: "Next: Problem Set - Just Setting Up twttr"
+icon: "arrow-right"
+hidden: true
+class: worksheet-button
+tooltip: ""
+id: "next"
+style: primary
+actions:
+  - type: open
+    link: "[[Just setting up my twttr]]"
+
+```
+```meta-bind-button
+label: "Previous: Problem Set - camelCase"
+icon: "arrow-left"
+hidden: true
+class: navigation-buttons
+tooltip: ""
+id: "previous"
+style: primary
+actions:
+  - type: open
+    link: "[[camelCase]]"
+
+```
+# Problem Set 2: Coke Machine
+---
+
 Suppose that a machine sells bottles of Coca-Cola (Coke) for 50 cents and only accepts coins in these denominations: 25 cents, 10 cents, and 5 cents.
 
 In a file called `coke.py`, implement a program that prompts the user to insert a coin, one at a time, each time informing the user of the amount due. Once the user has inputted at least 50 cents, output how many cents in change the user is owed. Assume that the user will only input integers, and ignore any integer that isn’t an accepted denomination.
@@ -162,3 +233,6 @@ def main():
 
 main()
 ```
+
+
+`BUTTON[previous]` `BUTTON[next]`

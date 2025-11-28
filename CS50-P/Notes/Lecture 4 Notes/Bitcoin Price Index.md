@@ -1,3 +1,74 @@
+---
+tags:
+  - harvard
+  - datascience
+  - python
+  - lecture4
+  - problem_set
+university: Harvard
+year: "2022"
+link: https://cs50.harvard.edu/python/psets/4/bitcoin/
+cover: bitcoinpriceindex.jpg
+description: "In a file called `bitcoin.py`, implement a program that: Expects the user to specify as a command-line argument the number of Bitcoins, n, that they would like to buy. If that argument cannot be converted to a `float`, the program should exit via `sys.exit` with an error message. Queries the API for the CoinCap Bitcoin Price Index at [rest.coincap.io/v3/assets/bitcoin?apiKey=YourApiKey](https://rest.coincap.io/v3/assets/bitcoin?apiKey=YourApiKey). You should replace `YourApiKey` with the actual API key you obtained from your CoinCap account dashboard, which returns a [JSON](https://en.wikipedia.org/wiki/JSON) object, among whose nested keys is the current price of Bitcoin as a `float`."
+---
+
+`BUTTON[cs50p]` `BUTTON[edX-CS50P]`
+
+```meta-bind-button
+label: Return to CS50-P
+icon: "home"
+hidden: true
+class: navigation-buttons
+tooltip: ""
+id: cs50p
+style: primary
+actions:
+  - type: open
+    link: "[[CS50-P]]"
+
+```
+```meta-bind-button
+label: CS50-P Course on edX
+icon: "globe"
+hidden: true
+class: course-navigation-buttons
+tooltip: ""
+id: "edX-CS50P"
+style: primary
+actions:
+  - type: open
+    link: "https://cs50.harvard.edu/python/"
+
+```
+```meta-bind-button
+label: "Next: Lecture 5 - Unit Tests"
+icon: "arrow-right"
+hidden: true
+class: worksheet-button
+tooltip: ""
+id: "next"
+style: primary
+actions:
+  - type: open
+    link: "[[Unit Tests]]"
+
+```
+```meta-bind-button
+label: "Previous: Problem Set - Little Professor"
+icon: "arrow-left"
+hidden: true
+class: navigation-buttons
+tooltip: ""
+id: "previous"
+style: primary
+actions:
+  - type: open
+    link: "[[Little Professor]]"
+
+```
+# Problem Set 4: Bitcoin Price Index
+---
+
 As of [Saturday, April 5, 2025 at 7:00 AM MDT](https://time.cs50.io/20250405T130000Z), we are aware of the [CoinCap v2 API deprecation](https://pro.coincap.io/api-docs/) that may affect students’ ability to complete this problem. We have now updated the problem to use the CoinCap v3 API instead. If you have already started working on this problem, you must update your code to use the CoinCap v3 API instead of the CoinCap v2 API. Importantly, you will need to sign up for a CoinCap account and obtain an API key. You can do this by visiting [CoinCap](https://pro.coincap.io/signup). Once you have your API key, you can use it in your code to access the CoinCap v3 API.
 
 [Bitcoin](https://en.wikipedia.org/wiki/Bitcoin) is a form of digital currency, otherwise known as [cryptocurrency](https://en.wikipedia.org/wiki/Cryptocurrency). Rather than rely on a central authority like a bank, Bitcoin instead relies on a distributed network, otherwise known as a [blockchain](https://en.wikipedia.org/wiki/Blockchain), to record transactions.
@@ -221,3 +292,6 @@ if __name__ == "__main__":
 
 
 ```
+
+
+`BUTTON[previous]` `BUTTON[next]`

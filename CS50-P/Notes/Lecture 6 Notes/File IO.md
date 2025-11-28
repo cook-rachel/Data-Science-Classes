@@ -1,3 +1,73 @@
+---
+tags:
+  - harvard
+  - datascience
+  - python
+  - lecture6
+  - notes
+university: Harvard
+year: "2022"
+link: https://cs50.harvard.edu/python/weeks/6/
+cover: fileio.jpg
+description: list. open. with. sorted. CSV. dict. csv. PIL.
+---
+
+`BUTTON[cs50p]` `BUTTON[edX-CS50P]`
+
+```meta-bind-button
+label: Return to CS50-P
+icon: "home"
+hidden: true
+class: navigation-buttons
+tooltip: ""
+id: cs50p
+style: primary
+actions:
+  - type: open
+    link: "[[CS50-P]]"
+
+```
+```meta-bind-button
+label: CS50-P Course on edX
+icon: "globe"
+hidden: true
+class: course-navigation-buttons
+tooltip: ""
+id: "edX-CS50P"
+style: primary
+actions:
+  - type: open
+    link: "https://cs50.harvard.edu/python/"
+
+```
+```meta-bind-button
+label: "Next: Short - Pillow"
+icon: "arrow-right"
+hidden: true
+class: worksheet-button
+tooltip: ""
+id: "next"
+style: primary
+actions:
+  - type: open
+    link: "[[Pillow]]"
+
+```
+```meta-bind-button
+label: "Previous: Problem Set - Refueling"
+icon: "arrow-left"
+hidden: true
+class: navigation-buttons
+tooltip: ""
+id: "previous"
+style: primary
+actions:
+  - type: open
+    link: "[[Refueling]]"
+
+```
+# Lecture 6: File I/O
+---
 
 <iframe width="560" height="315" 
 src="https://video.cs50.io/KD-Yoel6EVQ" 
@@ -442,3 +512,6 @@ Now, we have not only seen that we can write and read files textually—we can a
 - `with`
 - CSV
 - `PIL`
+
+
+`BUTTON[previous]` `BUTTON[next]`

@@ -1,3 +1,60 @@
+---
+tags:
+  - datascience
+  - python
+  - edX
+  - lecture0
+  - notes
+university: Harvard
+year: "2022"
+link: https://cs50.harvard.edu/python/weeks/0/
+cover: functionsvariables.jpg
+description: Functions. Arguments. Side Effects. Bugs. Return Values. Variables. Comments. Pseudocode. str. Parameters. int. Operators. Interactive Mode. float. def. Scope. return.
+---
+
+`BUTTON[cs50p]` `BUTTON[edX-CS50P]`
+
+```meta-bind-button
+label: Return to CS50-P
+icon: "home"
+hidden: true
+class: navigation-buttons
+tooltip: ""
+id: cs50p
+style: primary
+actions:
+  - type: open
+    link: "[[CS50-P]]"
+
+```
+```meta-bind-button
+label: CS50-P Course on edX
+icon: "globe"
+hidden: true
+class: course-navigation-buttons
+tooltip: ""
+id: "edX-CS50P"
+style: primary
+actions:
+  - type: open
+    link: "https://cs50.harvard.edu/python/"
+
+```
+```meta-bind-button
+label: "Next: Get Started in VS Code"
+icon: "arrow-right"
+hidden: true
+class: worksheet-button
+tooltip: ""
+id: "cs50p-getstartedinvscode"
+style: primary
+actions:
+  - type: open
+    link: "[[Get Started in VS Code]]"
+
+```
+# Lecture 0: Functions & Variables
+---
 
 <iframe width="560" height="315" 
 src="https://video.cs50.io/JP7ITIXGpHk" 
@@ -583,3 +640,6 @@ Through the work of this single lecture, you have learned abilities that you wil
 - Return values.
 
 
+
+
+`BUTTON[cs50p]` `BUTTON[cs50p-getstartedinvscode]`

@@ -1,3 +1,74 @@
+---
+tags:
+  - harvard
+  - datascience
+  - python
+  - lecture4
+  - problem_set
+university: Harvard
+year: "2022"
+link: https://cs50.harvard.edu/python/psets/4/game/
+cover: guessinggame.jpg
+description: "In a file called `game.py`, implement a program that: Prompts the user for a level, n. If the user does not input a positive integer, the program should prompt again. Randomly generates an integer between 1 and n, inclusive, using the `random` module. Prompts the user to guess that integer. If the guess is not a positive integer, the program should prompt the user again."
+---
+
+`BUTTON[cs50p]` `BUTTON[edX-CS50P]`
+
+```meta-bind-button
+label: Return to CS50-P
+icon: "home"
+hidden: true
+class: navigation-buttons
+tooltip: ""
+id: cs50p
+style: primary
+actions:
+  - type: open
+    link: "[[CS50-P]]"
+
+```
+```meta-bind-button
+label: CS50-P Course on edX
+icon: "globe"
+hidden: true
+class: course-navigation-buttons
+tooltip: ""
+id: "edX-CS50P"
+style: primary
+actions:
+  - type: open
+    link: "https://cs50.harvard.edu/python/"
+
+```
+```meta-bind-button
+label: "Next: Problem Set - Little Professor"
+icon: "arrow-right"
+hidden: true
+class: worksheet-button
+tooltip: ""
+id: "next"
+style: primary
+actions:
+  - type: open
+    link: "[[Little Professor]]"
+
+```
+```meta-bind-button
+label: "Previous: Problem Set - Adieu, Adieu"
+icon: "arrow-left"
+hidden: true
+class: navigation-buttons
+tooltip: ""
+id: "previous"
+style: primary
+actions:
+  - type: open
+    link: "[[Adieu, Adieu]]"
+
+```
+# Problem Set 4: Guessing Game
+---
+
 I’m thinking of a number between 1 and 100…
 
 What is it?
@@ -189,3 +260,6 @@ def get_positive_int(prompt):
 
 main()
 ```
+
+
+`BUTTON[previous]` `BUTTON[next]`

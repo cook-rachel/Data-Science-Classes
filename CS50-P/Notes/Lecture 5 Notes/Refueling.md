@@ -1,3 +1,74 @@
+---
+tags:
+  - harvard
+  - datascience
+  - python
+  - lecture5
+  - problem_set
+university: Harvard
+year: "2022"
+link: est_fuel/
+cover: refueling.jpg
+description: In a file called `fuel.py`, reimplement [Fuel Gauge](https://cs50.harvard.edu/python/2022/psets/3/fuel/) from [Problem Set 3](https://cs50.harvard.edu/python/2022/psets/3/), restructuring your code per the below.
+---
+
+`BUTTON[cs50p]` `BUTTON[edX-CS50P]`
+
+```meta-bind-button
+label: Return to CS50-P
+icon: "home"
+hidden: true
+class: navigation-buttons
+tooltip: ""
+id: cs50p
+style: primary
+actions:
+  - type: open
+    link: "[[CS50-P]]"
+
+```
+```meta-bind-button
+label: CS50-P Course on edX
+icon: "globe"
+hidden: true
+class: course-navigation-buttons
+tooltip: ""
+id: "edX-CS50P"
+style: primary
+actions:
+  - type: open
+    link: "https://cs50.harvard.edu/python/"
+
+```
+```meta-bind-button
+label: "Next: Lecture 6 - File I/O"
+icon: "arrow-right"
+hidden: true
+class: worksheet-button
+tooltip: ""
+id: "next"
+style: primary
+actions:
+  - type: open
+    link: "[[File IO]]"
+
+```
+```meta-bind-button
+label: "Previous: Problem Set - Re-requesting a Vanity Plate"
+icon: "arrow-left"
+hidden: true
+class: navigation-buttons
+tooltip: ""
+id: "previous"
+style: primary
+actions:
+  - type: open
+    link: "[[Re-requesting a Vanity Plate]]"
+
+```
+# Problem Set 5: Refueling
+---
+
 In a file called `fuel.py`, reimplement [Fuel Gauge](https://cs50.harvard.edu/python/2022/psets/3/fuel/) from [Problem Set 3](https://cs50.harvard.edu/python/2022/psets/3/), restructuring your code per the below, wherein:
 
 - `convert` expects a `str` in `X/Y` format as input, wherein each of `X` and `Y` is an integer, and returns that fraction as a percentage rounded to the nearest `int` between `0` and `100`, inclusive. If `X` and/or `Y` is not an integer, or if `X` is greater than `Y`, then `convert` should raise a `ValueError`. If `Y` is `0`, then `convert` should raise a `ZeroDivisionError`.
@@ -190,3 +261,6 @@ def test_gauge():
 
 
 ```
+
+
+`BUTTON[previous]` `BUTTON[next]`

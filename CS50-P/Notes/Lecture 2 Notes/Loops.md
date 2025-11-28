@@ -1,3 +1,73 @@
+---
+tags:
+  - harvard
+  - datascience
+  - python
+  - lecture2
+  - notes
+university: Harvard
+year: "2022"
+link: https://cs50.harvard.edu/python/weeks/2/
+cover: loops.jpg
+description: while. for. list. range. continue. break. list. len. dict. None.
+---
+
+`BUTTON[cs50p]` `BUTTON[edX-CS50P]`
+
+```meta-bind-button
+label: Return to CS50-P
+icon: "home"
+hidden: true
+class: navigation-buttons
+tooltip: ""
+id: cs50p
+style: primary
+actions:
+  - type: open
+    link: "[[CS50-P]]"
+
+```
+```meta-bind-button
+label: CS50-P Course on edX
+icon: "globe"
+hidden: true
+class: course-navigation-buttons
+tooltip: ""
+id: "edX-CS50P"
+style: primary
+actions:
+  - type: open
+    link: "https://cs50.harvard.edu/python/"
+
+```
+```meta-bind-button
+label: "Next: Short - Dictionaries"
+icon: "arrow-right"
+hidden: true
+class: worksheet-button
+tooltip: ""
+id: "next"
+style: primary
+actions:
+  - type: open
+    link: "[[Dictionaries]]"
+
+```
+```meta-bind-button
+label: "Previous: Problem Set - Meal Time"
+icon: "arrow-left"
+hidden: true
+class: navigation-buttons
+tooltip: ""
+id: "previous"
+style: primary
+actions:
+  - type: open
+    link: "[[Meal Time]]"
+
+```
+# Lecture 2: Loops
+---
 
 <iframe width="560" height="315" 
 src="https://video.cs50.io/-7xg8pGcP6w" 
@@ -477,3 +547,7 @@ You now have another power in your growing list of your Python abilities. In thi
 - `len`
 - `list`
 - `dict`
+
+
+
+`BUTTON[previous]` `BUTTON[next]`

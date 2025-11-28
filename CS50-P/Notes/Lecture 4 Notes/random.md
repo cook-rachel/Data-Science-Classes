@@ -1,3 +1,73 @@
+---
+tags:
+  - harvard
+  - datascience
+  - python
+  - lecture4
+  - supplemental_video
+university: Harvard
+year: "2022"
+link: https://cs50.harvard.edu/python/shorts/random/
+cover: random.jpg
+description: Supplemental video on random, sampling with replacement, seeds.
+---
+
+`BUTTON[cs50p]` `BUTTON[edX-CS50P]`
+
+```meta-bind-button
+label: Return to CS50-P
+icon: "home"
+hidden: true
+class: navigation-buttons
+tooltip: ""
+id: cs50p
+style: primary
+actions:
+  - type: open
+    link: "[[CS50-P]]"
+
+```
+```meta-bind-button
+label: CS50-P Course on edX
+icon: "globe"
+hidden: true
+class: course-navigation-buttons
+tooltip: ""
+id: "edX-CS50P"
+style: primary
+actions:
+  - type: open
+    link: "https://cs50.harvard.edu/python/"
+
+```
+```meta-bind-button
+label: "Next: Short - Style"
+icon: "arrow-right"
+hidden: true
+class: worksheet-button
+tooltip: ""
+id: "next"
+style: primary
+actions:
+  - type: open
+    link: "[[Style]]"
+
+```
+```meta-bind-button
+label: "Previous: Short - Creating Modules & Packages"
+icon: "arrow-left"
+hidden: true
+class: navigation-buttons
+tooltip: ""
+id: "previous"
+style: primary
+actions:
+  - type: open
+    link: "[[Creating Modules and Packages]]"
+
+```
+# Problem Set 4: random
+---
 
 <iframe width="560" height="315" 
 src="https://video.cs50.io/yec-UUauUV8" 
@@ -74,3 +144,6 @@ def main():
 
 main()
 ```
+
+
+`BUTTON[previous]` `BUTTON[next]`

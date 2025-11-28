@@ -1,4 +1,8 @@
 [
   "obsidian-style-settings",
-  "table-editor-obsidian"
+  "table-editor-obsidian",
+  "dataview",
+  "obsidian-meta-bind-plugin",
+  "obsidian-banners",
+  "code-styler"
 ]

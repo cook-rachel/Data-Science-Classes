@@ -1,4 +1,73 @@
+---
+tags:
+  - harvard
+  - datascience
+  - python
+  - lecture1
+  - notes
+university: Harvard
+year: "2022"
+link: https://cs50.harvard.edu/python/weeks/1/
+cover: conditionals.jpg
+description: Cif. elif. else. or. and. bool. match.
+---
 
+`BUTTON[cs50p]` `BUTTON[edX-CS50P]`
+
+```meta-bind-button
+label: Return to CS50-P
+icon: "home"
+hidden: true
+class: navigation-buttons
+tooltip: ""
+id: cs50p
+style: primary
+actions:
+  - type: open
+    link: "[[CS50-P]]"
+
+```
+```meta-bind-button
+label: CS50-P Course on edX
+icon: "globe"
+hidden: true
+class: course-navigation-buttons
+tooltip: ""
+id: "edX-CS50P"
+style: primary
+actions:
+  - type: open
+    link: "https://cs50.harvard.edu/python/"
+
+```
+```meta-bind-button
+label: "Next: Short - Conditionals"
+icon: "arrow-right"
+hidden: true
+class: worksheet-button
+tooltip: ""
+id: "next"
+style: primary
+actions:
+  - type: open
+    link: "[[Conditionals (short)]]"
+
+```
+```meta-bind-button
+label: "Previous: Problem Set - Tip Calculator"
+icon: "arrow-left"
+hidden: true
+class: navigation-buttons
+tooltip: ""
+id: "previous"
+style: primary
+actions:
+  - type: open
+    link: "[[Tip Calculator]]"
+
+```
+# Lecture 1: Conditionals
+---
 <iframe width="560" height="315" 
 src="https://video.cs50.io/_b6NgY_pMdw?start=3" 
 title="YouTube video player" 
@@ -54,7 +123,7 @@ allowfullscreen></iframe>
     
 - Our code can be represented as follows:
 	- really asking 3 separate questions
-    ![[Pasted image 20250526080250.png]]
+    ![[Pasted image 20250526080250.png|400]]
 - This program can be improved by not asking three consecutive questions. After all, not all three questions can have an outcome of `true`! Revise your program as follows:
     
     ```python
@@ -73,7 +142,7 @@ allowfullscreen></iframe>
     
 - Our code can be represented as follows:
 	- now asking 1 question with 2 optional subparts
- ![[Pasted image 20250526080315.png]]
+ ![[Pasted image 20250526080315.png|500]]
     
 - While your computer may not notice a difference speed-wise between our first program and this revised program, consider how an online server running billions or trillions of these types of calculations each day could definitely be impacted by such a small coding decision.
 - There is one final improvement we can make to our program. Notice how logically `elif x == y` is not a necessary evaluation to run. After all, if logically x is not less than y AND x is not greater than y, x MUST equal y. Therefore, we don’t have to run `elif x == y`. We can create a “catch-all,” default outcome using an `else` statement. We can revise as follows:
@@ -94,7 +163,7 @@ allowfullscreen></iframe>
     
 - Our code can be represented as follows:
 	- now asking 1 question with 1 optional subpart
-    ![[Pasted image 20250526080331.png]]
+    ![[Pasted image 20250526080331.png|500]]
 
 ## or
 
@@ -141,7 +210,7 @@ allowfullscreen></iframe>
     Notice that the `==` operator evaluates if what is on the left and right are equal to one another. The use of double equal signs is very important. If you use only one equal sign, an error will likely be thrown by the interpreter.
     
 - Our code can be illustrated as follows:
-![[Pasted image 20250526080347.png]]
+![[Pasted image 20250526080347.png|500]]
     
 
 ## and
@@ -383,3 +452,6 @@ You now have the power within Python to use conditional statements to ask questi
 - Creating your own function;
 - Pythonic coding;
 - and `match`.
+
+
+`BUTTON[previous]` `BUTTON[next]`

@@ -1,0 +1,11 @@
+views:
+  - type: cards
+    name: Lecture 0
+    filters:
+      and:
+        - file.tags.contains("lecture0")
+        - file.tags.contains("notes")
+        - file.folder != "Templates"
+    image: note.cover
+    imageAspectRatio: 0.55
+    cardSize: 260

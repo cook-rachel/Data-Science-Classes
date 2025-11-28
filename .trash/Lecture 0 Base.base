@@ -1,0 +1,12 @@
+views:
+  - type: table
+    name: Lecture 0
+    filters:
+      and:
+        - note["lecture number notes"] == "Lecture 0 Notes"
+    order:
+      - file.name
+      - lecture number notes
+      - supplemental videos
+      - problem set number
+    image: note.cover

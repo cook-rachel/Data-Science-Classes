@@ -1,3 +1,73 @@
+---
+tags:
+  - harvard
+  - datascience
+  - python
+  - lecture0
+  - problem_set
+university: Harvard
+year: "2022"
+link: https://cs50.harvard.edu/python/psets/0/playback/
+cover: playbackspeed.jpg
+description: In a file called `playback.py`, implement a program in Python that prompts the user for input and then outputs that same input, replacing each space with `...` (i.e., three periods).
+---
+
+`BUTTON[cs50p]` `BUTTON[edX-CS50P]`
+
+```meta-bind-button
+label: Return to CS50-P
+icon: "home"
+hidden: true
+class: navigation-buttons
+tooltip: ""
+id: cs50p
+style: primary
+actions:
+  - type: open
+    link: "[[CS50-P]]"
+
+```
+```meta-bind-button
+label: CS50-P Course on edX
+icon: "globe"
+hidden: true
+class: course-navigation-buttons
+tooltip: ""
+id: "edX-CS50P"
+style: primary
+actions:
+  - type: open
+    link: "https://cs50.harvard.edu/python/"
+
+```
+```meta-bind-button
+label: "Next: Problem Set - Making Faces"
+icon: "arrow-right"
+hidden: true
+class: worksheet-button
+tooltip: ""
+id: "next"
+style: primary
+actions:
+  - type: open
+    link: "[[Making Faces]]"
+
+```
+```meta-bind-button
+label: "Previous: Problem Set - Indoor Voice"
+icon: "arrow-left"
+hidden: true
+class: navigation-buttons
+tooltip: ""
+id: "previous"
+style: primary
+actions:
+  - type: open
+    link: "[[Indoor Voice]]"
+
+```
+# Problem Set 0: Playback Speed
+---
 
 Some people have a habit of lecturing speaking rather quickly, and it’d be nice to slow them down, a la YouTube’s 0.75 playback speed, or even by having them pause between words.
 
@@ -98,3 +168,6 @@ phrase = input("")
 
 print(phrase.replace(" ", "..."))
 ```
+
+
+`BUTTON[previous]` `BUTTON[next]`

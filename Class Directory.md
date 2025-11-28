@@ -1,3 +1,12 @@
-### Classes
+---
+cssclasses:
+  - no-bases-header
+---
+# Classes
 
-CS-50P
+## University of Denver: Data Science & AI
+
+
+## Harvard edX
+
+![[Class Base.base]]

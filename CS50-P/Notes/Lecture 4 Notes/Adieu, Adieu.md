@@ -1,3 +1,74 @@
+---
+tags:
+  - harvard
+  - datascience
+  - python
+  - lecture4
+  - problem_set
+university: Harvard
+year: "2022"
+link: https://cs50.harvard.edu/python/psets/4/adieu/
+cover: adieu.jpg
+description: In a file called `adieu.py`, implement a program that prompts the user for names, one per line, until the user inputs control-d. Assume that the user will input at least one name. Then bid adieu to those names, separating two names with one `and`, three names with two commas and one `and`, and n names with n−1 commas and one `and`.
+---
+
+`BUTTON[cs50p]` `BUTTON[edX-CS50P]`
+
+```meta-bind-button
+label: Return to CS50-P
+icon: "home"
+hidden: true
+class: navigation-buttons
+tooltip: ""
+id: cs50p
+style: primary
+actions:
+  - type: open
+    link: "[[CS50-P]]"
+
+```
+```meta-bind-button
+label: CS50-P Course on edX
+icon: "globe"
+hidden: true
+class: course-navigation-buttons
+tooltip: ""
+id: "edX-CS50P"
+style: primary
+actions:
+  - type: open
+    link: "https://cs50.harvard.edu/python/"
+
+```
+```meta-bind-button
+label: "Next: Problem Set - Guessing Game"
+icon: "arrow-right"
+hidden: true
+class: worksheet-button
+tooltip: ""
+id: "next"
+style: primary
+actions:
+  - type: open
+    link: "[[Guessing Game]]"
+
+```
+```meta-bind-button
+label: "Previous: Problem Set - Frank, Ian, & Glen's Letters"
+icon: "arrow-left"
+hidden: true
+class: navigation-buttons
+tooltip: ""
+id: "previous"
+style: primary
+actions:
+  - type: open
+    link: "[[Frank, Ian, and Glen's Letters]]"
+
+```
+# Problem Set 4: Adieu, Adieu
+---
+
 In [The Sound of Music](https://en.wikipedia.org/wiki/The_Sound_of_Music_\(film\)), there’s a song sung largely in English, [So Long, Farewell](https://www.youtube.com/watch?v=Qy9_lfjQopU), with these [lyrics](https://www.lyrics.com/lyric/3998488/Julie+Andrews/So+Long%2C+Farewell), wherein “adieu” means “goodbye” in French:
 
 > Adieu, adieu, to yieu and yieu and yieu
@@ -146,3 +217,6 @@ def create_dict():
 
 main()
 ```
+
+
+`BUTTON[previous]` `BUTTON[next]`

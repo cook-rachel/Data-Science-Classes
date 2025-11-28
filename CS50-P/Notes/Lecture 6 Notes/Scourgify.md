@@ -1,3 +1,74 @@
+---
+tags:
+  - harvard
+  - datascience
+  - python
+  - lecture6
+  - problem_set
+university: Harvard
+year: "2022"
+link: https://cs50.harvard.edu/python/psets/6/scourgify/
+cover: scourgify.jpg
+description: "In a file called `scourgify.py`, implement a program that: Expects the user to provide two command-line arguments: the name of an existing CSV file to read as input, whose columns are assumed to be, in order, `name` and `house`, and  the name of a new CSV to write as output, whose columns should be, in order, `first`, `last`, and `house`. Converts that input to that output, splitting each `name` into a `first` name and `last` name. Assume that each student will have both a first name and last name."
+---
+
+`BUTTON[cs50p]` `BUTTON[edX-CS50P]`
+
+```meta-bind-button
+label: Return to CS50-P
+icon: "home"
+hidden: true
+class: navigation-buttons
+tooltip: ""
+id: cs50p
+style: primary
+actions:
+  - type: open
+    link: "[[CS50-P]]"
+
+```
+```meta-bind-button
+label: CS50-P Course on edX
+icon: "globe"
+hidden: true
+class: course-navigation-buttons
+tooltip: ""
+id: "edX-CS50P"
+style: primary
+actions:
+  - type: open
+    link: "https://cs50.harvard.edu/python/"
+
+```
+```meta-bind-button
+label: "Next: Problem Set - CS50 P-Shirt"
+icon: "arrow-right"
+hidden: true
+class: worksheet-button
+tooltip: ""
+id: "next"
+style: primary
+actions:
+  - type: open
+    link: "[[CS50 P-Shirt]]"
+
+```
+```meta-bind-button
+label: "Previous: Problem Set - Pizza Py"
+icon: "arrow-left"
+hidden: true
+class: navigation-buttons
+tooltip: ""
+id: "previous"
+style: primary
+actions:
+  - type: open
+    link: "[[Pizza Py]]"
+
+```
+# Problem Set 6: Scourgify
+---
+
 > “Ah, well,” said Tonks, slamming the trunk’s lid shut, “at least it’s all in. That could do with a bit of cleaning, too.” She pointed her wand at Hedwig’s cage. “[Scourgify](https://harrypotter.fandom.com/wiki/Scouring_Charm).” A few feathers and droppings vanished.
 > 
 > — _Harry Potter and the Order of the Phoenix_
@@ -206,3 +277,6 @@ def main():
 
 main()
 ```
+
+
+`BUTTON[previous]` `BUTTON[next]`

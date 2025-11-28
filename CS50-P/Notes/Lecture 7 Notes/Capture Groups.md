@@ -1,3 +1,73 @@
+---
+tags:
+  - harvard
+  - datascience
+  - python
+  - lecture7
+  - supplemental_video
+university: Harvard
+year: "2022"
+link: https://cs50.harvard.edu/python/shorts/capture_groups/
+cover: capturegroups.jpg
+description: Supplemental video on capture groups via re and match.
+---
+
+`BUTTON[cs50p]` `BUTTON[edX-CS50P]`
+
+```meta-bind-button
+label: Return to CS50-P
+icon: "home"
+hidden: true
+class: navigation-buttons
+tooltip: ""
+id: cs50p
+style: primary
+actions:
+  - type: open
+    link: "[[CS50-P]]"
+
+```
+```meta-bind-button
+label: CS50-P Course on edX
+icon: "globe"
+hidden: true
+class: course-navigation-buttons
+tooltip: ""
+id: "edX-CS50P"
+style: primary
+actions:
+  - type: open
+    link: "https://cs50.harvard.edu/python/"
+
+```
+```meta-bind-button
+label: "Next: Problem Set - NUMB3RS"
+icon: "arrow-right"
+hidden: true
+class: worksheet-button
+tooltip: ""
+id: "next"
+style: primary
+actions:
+  - type: open
+    link: "[[NUMB3RS]]"
+
+```
+```meta-bind-button
+label: "Previous: Short - Patterns"
+icon: "arrow-left"
+hidden: true
+class: navigation-buttons
+tooltip: ""
+id: "previous"
+style: primary
+actions:
+  - type: open
+    link: "[[Patterns]]"
+
+```
+# Supplemental Video: Capture Groups
+---
 
 <iframe width="560" height="315" 
 src="https://video.cs50.io/LsW1lL6-ELU" 
@@ -27,3 +97,6 @@ def main():
 main()
 
 ```
+
+
+`BUTTON[previous]` `BUTTON[next]`

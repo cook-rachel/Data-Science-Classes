@@ -1,4 +1,73 @@
+---
+tags:
+  - harvard
+  - datascience
+  - python
+  - lecture0
+  - problem_set
+university: Harvard
+year: "2022"
+link: https://cs50.harvard.edu/python/psets/0/indoor/
+cover: indoorvoice.jpg
+description: In a file called `indoor.py`, implement a program in Python that prompts the user for input and then outputs that same input in lowercase. Punctuation and whitespace should be outputted unchanged. You’re welcome, but not required, to prompt the user explicitly, as by passing a `str` of your own as an argument to `input`.
+---
 
+`BUTTON[cs50p]` `BUTTON[edX-CS50P]`
+
+```meta-bind-button
+label: Return to CS50-P
+icon: "home"
+hidden: true
+class: navigation-buttons
+tooltip: ""
+id: cs50p
+style: primary
+actions:
+  - type: open
+    link: "[[CS50-P]]"
+
+```
+```meta-bind-button
+label: CS50-P Course on edX
+icon: "globe"
+hidden: true
+class: course-navigation-buttons
+tooltip: ""
+id: "edX-CS50P"
+style: primary
+actions:
+  - type: open
+    link: "https://cs50.harvard.edu/python/"
+
+```
+```meta-bind-button
+label: "Next: Problem Set - Playback Speed"
+icon: "arrow-right"
+hidden: true
+class: worksheet-button
+tooltip: ""
+id: "next"
+style: primary
+actions:
+  - type: open
+    link: "[[Playback Speed]]"
+
+```
+```meta-bind-button
+label: "Previous: Short - String Methods"
+icon: "arrow-left"
+hidden: true
+class: navigation-buttons
+tooltip: ""
+id: "previous"
+style: primary
+actions:
+  - type: open
+    link: "[[String Methods]]"
+
+```
+# Problem Set 0: Indoor Voice
+---
 WRITING IN ALL CAPS IS LIKE YELLING.
 
 Best to use your “indoor voice” sometimes, writing entirely in lowercase.
@@ -92,3 +161,6 @@ name = name.lower()
 
 print(name)
 ```
+
+
+`BUTTON[previous]` `BUTTON[next]`

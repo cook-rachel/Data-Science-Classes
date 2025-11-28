@@ -1,3 +1,73 @@
+---
+tags:
+  - harvard
+  - datascience
+  - python
+  - lecture5
+  - supplemental_video
+university: Harvard
+year: "2022"
+link: https://cs50.harvard.edu/python/shorts/pytest/
+cover: pytest.jpg
+description: Supplemental video using pytest.
+---
+
+`BUTTON[cs50p]` `BUTTON[edX-CS50P]`
+
+```meta-bind-button
+label: Return to CS50-P
+icon: "home"
+hidden: true
+class: navigation-buttons
+tooltip: ""
+id: cs50p
+style: primary
+actions:
+  - type: open
+    link: "[[CS50-P]]"
+
+```
+```meta-bind-button
+label: CS50-P Course on edX
+icon: "globe"
+hidden: true
+class: course-navigation-buttons
+tooltip: ""
+id: "edX-CS50P"
+style: primary
+actions:
+  - type: open
+    link: "https://cs50.harvard.edu/python/"
+
+```
+```meta-bind-button
+label: "Next: Problem Set - Testing my twttr"
+icon: "arrow-right"
+hidden: true
+class: worksheet-button
+tooltip: ""
+id: "next"
+style: primary
+actions:
+  - type: open
+    link: "[[Testing my twttr]]"
+
+```
+```meta-bind-button
+label: "Previous: Lecture 5 - Unit Tests"
+icon: "arrow-left"
+hidden: true
+class: navigation-buttons
+tooltip: ""
+id: "previous"
+style: primary
+actions:
+  - type: open
+    link: "[[Unit Tests]]"
+
+```
+# Supplemental Video: Pytest
+---
 
 <iframe width="560" height="315" 
 src="https://video.cs50.io/6cnpRCUWhMY" 
@@ -56,3 +126,5 @@ def test_convert_typeerror():
         convert("cat") #if type in "cat" will raise typeerror
 
 ```
+
+`BUTTON[previous]` `BUTTON[next]`

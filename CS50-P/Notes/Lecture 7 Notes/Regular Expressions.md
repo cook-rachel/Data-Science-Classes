@@ -1,3 +1,73 @@
+---
+tags:
+  - harvard
+  - datascience
+  - python
+  - lecture7
+  - notes
+university: Harvard
+year: "2022"
+link: https://cs50.harvard.edu/python/weeks/7/
+cover: regularexpressions.jpg
+description: Regular Expressions. Regexes. re. re.search. re.match. re.fullmatch. re.sub. re.split. re.findall.
+---
+
+`BUTTON[cs50p]` `BUTTON[edX-CS50P]`
+
+```meta-bind-button
+label: Return to CS50-P
+icon: "home"
+hidden: true
+class: navigation-buttons
+tooltip: ""
+id: cs50p
+style: primary
+actions:
+  - type: open
+    link: "[[CS50-P]]"
+
+```
+```meta-bind-button
+label: CS50-P Course on edX
+icon: "globe"
+hidden: true
+class: course-navigation-buttons
+tooltip: ""
+id: "edX-CS50P"
+style: primary
+actions:
+  - type: open
+    link: "https://cs50.harvard.edu/python/"
+
+```
+```meta-bind-button
+label: "Next: Short - Patterns"
+icon: "arrow-right"
+hidden: true
+class: worksheet-button
+tooltip: ""
+id: "next"
+style: primary
+actions:
+  - type: open
+    link: "[[Patterns]]"
+
+```
+```meta-bind-button
+label: "Previous: Problem Set - CS50 P-Shirt"
+icon: "arrow-left"
+hidden: true
+class: navigation-buttons
+tooltip: ""
+id: "previous"
+style: primary
+actions:
+  - type: open
+    link: "[[CS50 P-Shirt]]"
+
+```
+# Lecture 7: Regular Expressions
+---
 
 <iframe width="560" height="315" 
 src="https://video.cs50.io/hy3sd9MOAcc" 
@@ -596,3 +666,6 @@ Now, you’ve learned a whole new language of regular expressions that can be ut
 - Case Sensitivity
 - Cleaning Up User Input
 - Extracting User Input
+
+
+`BUTTON[previous]` `BUTTON[next]`

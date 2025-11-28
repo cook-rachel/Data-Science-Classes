@@ -1,3 +1,71 @@
+---
+tags:
+  - harvard
+  - datascience
+  - python
+  - lecture2
+  - supplemental_video
+university: Harvard
+year: "2022"
+link: https://cs50.harvard.edu/python/shorts/dictionaries/
+cover: dictionaries.jpg
+description: Supplemental video on dictionaries.
+---
+
+```meta-bind-button
+label: Return to CS50-P
+icon: "home"
+hidden: true
+class: navigation-buttons
+tooltip: ""
+id: cs50p
+style: primary
+actions:
+  - type: open
+    link: "[[CS50-P]]"
+
+```
+```meta-bind-button
+label: CS50-P Course on edX
+icon: "globe"
+hidden: true
+class: course-navigation-buttons
+tooltip: ""
+id: "edX-CS50P"
+style: primary
+actions:
+  - type: open
+    link: "https://cs50.harvard.edu/python/"
+
+```
+```meta-bind-button
+label: "Next: Short - Dictionary Methods"
+icon: "arrow-right"
+hidden: true
+class: worksheet-button
+tooltip: ""
+id: "next"
+style: primary
+actions:
+  - type: open
+    link: "[[Dictionary Methods]]"
+
+```
+```meta-bind-button
+label: "Previous: Lecture 2 - Loops"
+icon: "arrow-left"
+hidden: true
+class: navigation-buttons
+tooltip: ""
+id: "previous"
+style: primary
+actions:
+  - type: open
+    link: "[[Loops]]"
+
+```
+# Supplemental Video: Dictionaries
+---
 
 <iframe width="560" height="315" 
 src="https://video.cs50.io/yPyFlO8G6rw" 
@@ -68,3 +136,6 @@ def convert(au):
 
 main()
 ```
+
+
+`BUTTON[previous]` `BUTTON[next]`

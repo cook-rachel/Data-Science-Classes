@@ -1,3 +1,74 @@
+---
+tags:
+  - harvard
+  - datascience
+  - python
+  - lecture7
+  - problem_set
+university: Harvard
+year: "2022"
+link: https://cs50.harvard.edu/python/psets/7/watch/
+cover: watchonyoutube.jpg
+description: In a file called `watch.py`, implement a function called `parse` that expects a `str` of HTML as input, extracts any YouTube URL that’s the value of a `src` attribute of an `iframe` element therein, and returns its shorter, shareable `youtu.be` equivalent as a `str`. Expect that any such URL will be in one of the formats below. Assume that the value of `src` will be surrounded by double quotes. And assume that the input will contain no more than one such URL. If the input does not contain any such URL at all, return `None`.
+---
+
+`BUTTON[cs50p]` `BUTTON[edX-CS50P]`
+
+```meta-bind-button
+label: Return to CS50-P
+icon: "home"
+hidden: true
+class: navigation-buttons
+tooltip: ""
+id: cs50p
+style: primary
+actions:
+  - type: open
+    link: "[[CS50-P]]"
+
+```
+```meta-bind-button
+label: CS50-P Course on edX
+icon: "globe"
+hidden: true
+class: course-navigation-buttons
+tooltip: ""
+id: "edX-CS50P"
+style: primary
+actions:
+  - type: open
+    link: "https://cs50.harvard.edu/python/"
+
+```
+```meta-bind-button
+label: "Next: Problem Set - Working 9 to 5"
+icon: "arrow-right"
+hidden: true
+class: worksheet-button
+tooltip: ""
+id: "next"
+style: primary
+actions:
+  - type: open
+    link: "[[Working 9 to 5]]"
+
+```
+```meta-bind-button
+label: "Previous: Problem Set - NUMB3RS"
+icon: "arrow-left"
+hidden: true
+class: navigation-buttons
+tooltip: ""
+id: "previous"
+style: primary
+actions:
+  - type: open
+    link: "[[NUMB3RS]]"
+
+```
+# Problem Set 7: Watch on YouTube
+---
+
 It turns out that (most) YouTube videos can be embedded in other websites, just like the above. For instance, if you visit [https://youtu.be/xvFZjo5PgG0](https://youtu.be/xvFZjo5PgG0) on a laptop or desktop, click **Share**, and then click **Embed**, you’ll see [HTML](https://en.wikipedia.org/wiki/HTML) (the language in which web pages are written) like the below, which you could then copy into your own website’s source code, wherein [`iframe`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe) is an HTML “element,” and `src` is one of several HTML “attributes” therein, the value of which, between quotes, is `https://www.youtube.com/embed/xvFZjo5PgG0`.
 
 ```
@@ -129,3 +200,6 @@ In your terminal, execute the below to submit your work.
 ```
 submit50 cs50/problems/2022/python/watch
 ```
+
+
+`BUTTON[previous]` `BUTTON[next]`

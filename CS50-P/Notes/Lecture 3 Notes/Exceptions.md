@@ -1,3 +1,73 @@
+---
+tags:
+  - harvard
+  - datascience
+  - python
+  - lecture3
+  - notes
+university: Harvard
+year: "2022"
+link: https://cs50.harvard.edu/python/weeks/3/
+cover: exceptions.jpg
+description: SyntaxError. ValueError. try. except. NameError. else. pass. raise.
+---
+
+`BUTTON[cs50p]` `BUTTON[edX-CS50P]`
+
+```meta-bind-button
+label: Return to CS50-P
+icon: "home"
+hidden: true
+class: navigation-buttons
+tooltip: ""
+id: cs50p
+style: primary
+actions:
+  - type: open
+    link: "[[CS50-P]]"
+
+```
+```meta-bind-button
+label: CS50-P Course on edX
+icon: "globe"
+hidden: true
+class: course-navigation-buttons
+tooltip: ""
+id: "edX-CS50P"
+style: primary
+actions:
+  - type: open
+    link: "https://cs50.harvard.edu/python/"
+
+```
+```meta-bind-button
+label: "Next: Short - Debugging"
+icon: "arrow-right"
+hidden: true
+class: worksheet-button
+tooltip: ""
+id: "next"
+style: primary
+actions:
+  - type: open
+    link: "[[Debugging]]"
+
+```
+```meta-bind-button
+label: "Previous: Problem Set - Nutrition Facts"
+icon: "arrow-left"
+hidden: true
+class: navigation-buttons
+tooltip: ""
+id: "previous"
+style: primary
+actions:
+  - type: open
+    link: "[[Nutrition Facts]]"
+
+```
+# Lecture 3: Exceptions
+---
 
 
 <iframe width="560" height="315" 
@@ -234,3 +304,6 @@ Errors are inevitable in your code. However, you have the opportunity to use wha
 - `try`
 - `else`
 - `pass`
+
+
+`BUTTON[previous]` `BUTTON[next]`

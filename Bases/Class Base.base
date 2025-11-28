@@ -1,0 +1,57 @@
+formulas:
+  packed_class_card: |-
+    [
+    title,
+    link,
+    description
+    ]
+  spacer_1: ""
+views:
+  - type: cards
+    name: edX Classes
+    filters:
+      and:
+        - university == "Harvard"
+        - and:
+            - file.folder != "Templates"
+            - file.tags.contains("class")
+    order:
+      - file.name
+      - description
+    image: note.cover
+    cardSize: 200
+    imageAspectRatio: 0.55
+  - type: cards
+    name: All Classes
+    filters:
+      and:
+        - file.tags.contains("datascience")
+        - and:
+            - file.folder != "Templates"
+    order:
+      - file.name
+      - description
+    imageAspectRatio: 0.55
+    image: note.cover
+    cardSize: 190
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - tags
+      - university
+      - year
+      - link
+    sort:
+      - property: tags
+        direction: ASC
+  - type: cards
+    name: CS50-P Lessons
+    filters:
+      and:
+        - file.tags.contains("lesson")
+    order:
+      - file.name
+      - description
+    image: note.cover
+    imageAspectRatio: 0.55

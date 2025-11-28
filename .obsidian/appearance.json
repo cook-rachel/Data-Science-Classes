@@ -3,6 +3,10 @@
   "accentColor": "",
   "theme": "obsidian",
   "enabledCssSnippets": [
-    "python-code-colors"
+    "python-code-colors",
+    "navigation_buttons",
+    "callouts",
+    "remove_base_header",
+    "colored_hr_lines"
   ]
 }

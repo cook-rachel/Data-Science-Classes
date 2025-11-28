@@ -1,3 +1,74 @@
+---
+tags:
+  - harvard
+  - datascience
+  - python
+  - lecture6
+  - problem_set
+university: Harvard
+year: "2022"
+link: https://cs50.harvard.edu/python/psets/6/shirt/
+cover: cs50pshirt.jpg
+description: "In a file called `shirt.py`, implement a program that expects exactly two command-line arguments: in `sys.argv[1]`, the name (or path) of a JPEG or PNG to read (i.e., open) as input; in `sys.argv[2]`, the name (or path) of a JPEG or PNG to write (i.e., save) as output"
+---
+
+`BUTTON[cs50p]` `BUTTON[edX-CS50P]`
+
+```meta-bind-button
+label: Return to CS50-P
+icon: "home"
+hidden: true
+class: navigation-buttons
+tooltip: ""
+id: cs50p
+style: primary
+actions:
+  - type: open
+    link: "[[CS50-P]]"
+
+```
+```meta-bind-button
+label: CS50-P Course on edX
+icon: "globe"
+hidden: true
+class: course-navigation-buttons
+tooltip: ""
+id: "edX-CS50P"
+style: primary
+actions:
+  - type: open
+    link: "https://cs50.harvard.edu/python/"
+
+```
+```meta-bind-button
+label: "Next: Lecture 7 - Regular Expressions"
+icon: "arrow-right"
+hidden: true
+class: worksheet-button
+tooltip: ""
+id: "next"
+style: primary
+actions:
+  - type: open
+    link: "[[Regular Expressions]]"
+
+```
+```meta-bind-button
+label: "Previous: Problem Set - Scourgify"
+icon: "arrow-left"
+hidden: true
+class: navigation-buttons
+tooltip: ""
+id: "previous"
+style: primary
+actions:
+  - type: open
+    link: "[[Scourgify]]"
+
+```
+# Problem Set 6: CS50 P-Shirt
+---
+
 After finishing CS50 itself, students on campus at Harvard traditionally receive their very own [I took CS50](https://cs50.harvardshop.com/collections/print/products/i-took-cs50-unisex-t-shirt) t-shirt. No need to buy one online, but like to try one on virtually?
 
 In a file called `shirt.py`, implement a program that expects exactly two command-line arguments:
@@ -220,3 +291,6 @@ main()
 
 
 ```
+
+
+`BUTTON[previous]` `BUTTON[next]`

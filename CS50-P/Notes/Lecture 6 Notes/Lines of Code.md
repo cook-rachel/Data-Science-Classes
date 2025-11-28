@@ -1,3 +1,74 @@
+---
+tags:
+  - harvard
+  - datascience
+  - python
+  - lecture6
+  - problem_set
+university: Harvard
+year: "2022"
+link: https://cs50.harvard.edu/python/psets/6/lines/
+cover: linesofcode.jpg
+description: One way to measure the complexity of a program is to count its number of [lines of code](https://en.wikipedia.org/wiki/Source_lines_of_code) (LOC), excluding blank lines and comments.
+---
+
+`BUTTON[cs50p]` `BUTTON[edX-CS50P]`
+
+```meta-bind-button
+label: Return to CS50-P
+icon: "home"
+hidden: true
+class: navigation-buttons
+tooltip: ""
+id: cs50p
+style: primary
+actions:
+  - type: open
+    link: "[[CS50-P]]"
+
+```
+```meta-bind-button
+label: CS50-P Course on edX
+icon: "globe"
+hidden: true
+class: course-navigation-buttons
+tooltip: ""
+id: "edX-CS50P"
+style: primary
+actions:
+  - type: open
+    link: "https://cs50.harvard.edu/python/"
+
+```
+```meta-bind-button
+label: "Next: Problem Set - Pizza Py"
+icon: "arrow-right"
+hidden: true
+class: worksheet-button
+tooltip: ""
+id: "next"
+style: primary
+actions:
+  - type: open
+    link: "[[Pizza Py]]"
+
+```
+```meta-bind-button
+label: "Previous: Short - Reading & Writing Files"
+icon: "arrow-left"
+hidden: true
+class: navigation-buttons
+tooltip: ""
+id: "previous"
+style: primary
+actions:
+  - type: open
+    link: "[[Reading and Writing Files]]"
+
+```
+# Problem Set 6: Lines of Code
+---
+
 One way to measure the complexity of a program is to count its number of [lines of code](https://en.wikipedia.org/wiki/Source_lines_of_code) (LOC), excluding blank lines and comments. For instance, a program like
 
 ```python
@@ -155,3 +226,6 @@ def main():
 
 main()
 ```
+
+
+`BUTTON[previous]` `BUTTON[next]`

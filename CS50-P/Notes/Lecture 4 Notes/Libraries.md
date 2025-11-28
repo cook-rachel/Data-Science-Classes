@@ -1,3 +1,73 @@
+---
+tags:
+  - harvard
+  - datascience
+  - python
+  - lecture4
+  - notes
+university: Harvard
+year: "2022"
+link: https://cs50.harvard.edu/python/weeks/4/
+cover: libaries.jpg
+description: Modules. random. import. from. statistics. Command-Line Arguments. sys. sys.argv. IndexError. sys.exit. Slices. Packages. PyPI. pip. cowsay. APIs. requests. JSON. __name__.
+---
+
+`BUTTON[cs50p]` `BUTTON[edX-CS50P]`
+
+```meta-bind-button
+label: Return to CS50-P
+icon: "home"
+hidden: true
+class: navigation-buttons
+tooltip: ""
+id: cs50p
+style: primary
+actions:
+  - type: open
+    link: "[[CS50-P]]"
+
+```
+```meta-bind-button
+label: CS50-P Course on edX
+icon: "globe"
+hidden: true
+class: course-navigation-buttons
+tooltip: ""
+id: "edX-CS50P"
+style: primary
+actions:
+  - type: open
+    link: "https://cs50.harvard.edu/python/"
+
+```
+```meta-bind-button
+label: "Next: Short - API Calls"
+icon: "arrow-right"
+hidden: true
+class: worksheet-button
+tooltip: ""
+id: "next"
+style: primary
+actions:
+  - type: open
+    link: "[[API Calls]]"
+
+```
+```meta-bind-button
+label: "Previous: Problem Set - Outdated"
+icon: "arrow-left"
+hidden: true
+class: navigation-buttons
+tooltip: ""
+id: "previous"
+style: primary
+actions:
+  - type: open
+    link: "[[Outdated]]"
+
+```
+# Lecture 4: Libraries
+---
 
 <iframe width="560" height="315" 
 src="https://video.cs50.io/MztLZWibctI" 
@@ -318,3 +388,6 @@ Libraries extend the abilities of Python. Some libraries are included by default
 - Packages
 - APIs
 - Making Your Own Libraries
+
+
+`BUTTON[previous]` `BUTTON[next]`
