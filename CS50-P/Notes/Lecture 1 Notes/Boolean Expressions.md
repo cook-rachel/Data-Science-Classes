@@ -12,7 +12,7 @@ cover: booleanexpressions.jpg
 description: A supplemental video on boolean expressions and how to use them in functions.
 ---
 
-`BUTTON[cs50p]` `BUTTON[edX-CS50P]`
+`BUTTON[cs50p, edX-CS50P]` 
 
 ```meta-bind-button
 label: Return to CS50-P
@@ -107,4 +107,4 @@ main()
 ```
 
 
-`BUTTON[previous]` `BUTTON[next]`
+`BUTTON[previous, next]`

@@ -12,7 +12,7 @@ cover: makingfaces.jpg
 description: In a file called `faces.py`, implement a function called `convert` that accepts a `str` as input and returns that same input with any `:)` converted to ![🙂|15](https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f642.png) (otherwise known as a [slightly smiling face](https://emojipedia.org/slightly-smiling-face/)) and any `:(` converted to ![🙁|15](https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f641.png) (otherwise known as a [slightly frowning face|](https://emojipedia.org/slightly-frowning-face/)). All other text should be returned unchanged.
 ---
 
-`BUTTON[cs50p]` `BUTTON[edX-CS50P]`
+`BUTTON[cs50p, edX-CS50P]` 
 
 ```meta-bind-button
 label: Return to CS50-P
@@ -192,4 +192,4 @@ main()
 ```
 
 
-`BUTTON[previous]` `BUTTON[next]`
+`BUTTON[previous, next]`

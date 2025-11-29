@@ -7,6 +7,7 @@
     "navigation_buttons",
     "callouts",
     "remove_base_header",
-    "colored_hr_lines"
+    "colored_hr_lines",
+    "button-row"
   ]
 }

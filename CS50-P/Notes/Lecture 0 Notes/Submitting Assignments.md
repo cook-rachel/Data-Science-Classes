@@ -13,7 +13,7 @@ cover: submittingassignments.jpg
 description: The initial setup steps for CS50’s Python course, guiding students through submitting a form, authorizing their GitHub account, joining the course, accessing their cloud-based VS Code workspace on cs50.dev, and updating their codespace.
 ---
 
-`BUTTON[cs50p]` `BUTTON[edX-CS50P]`
+`BUTTON[cs50p, edX-CS50P]` 
 
 # Lecture 0: Submitting Assignments
 ```meta-bind-button
@@ -81,4 +81,4 @@ actions:
 
 
 
-`BUTTON[previous]` `BUTTON[next]`
+`BUTTON[previous, next]`

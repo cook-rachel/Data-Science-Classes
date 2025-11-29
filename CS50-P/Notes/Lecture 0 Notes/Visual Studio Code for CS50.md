@@ -12,7 +12,7 @@ cover: vscodeforcs50.jpg
 description: Supplemental video on the command line interface basics of Visual Studio syntax used in Python.
 ---
 
-`BUTTON[cs50p]` `BUTTON[edX-CS50P]`
+`BUTTON[cs50p, edX-CS50P]` 
 
 ```meta-bind-button
 label: Return to CS50-P
@@ -99,8 +99,7 @@ allowfullscreen></iframe>
 - `clear`: clear terminal window 
 
 
-`BUTTON[previous]` `BUTTON[next]`
-
+`BUTTON[previous, next]`
 
 
 

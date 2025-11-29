@@ -12,7 +12,7 @@ cover: loops.jpg
 description: while. for. list. range. continue. break. list. len. dict. None.
 ---
 
-`BUTTON[cs50p]` `BUTTON[edX-CS50P]`
+`BUTTON[cs50p, edX-CS50P]` 
 
 ```meta-bind-button
 label: Return to CS50-P
@@ -550,4 +550,4 @@ You now have another power in your growing list of your Python abilities. In thi
 
 
 
-`BUTTON[previous]` `BUTTON[next]`
+`BUTTON[previous, next]`

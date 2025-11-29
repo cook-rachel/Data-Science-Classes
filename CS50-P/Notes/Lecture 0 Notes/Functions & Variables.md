@@ -12,8 +12,8 @@ cover: functionsvariables.jpg
 description: Functions. Arguments. Side Effects. Bugs. Return Values. Variables. Comments. Pseudocode. str. Parameters. int. Operators. Interactive Mode. float. def. Scope. return.
 ---
 
-`BUTTON[cs50p]` `BUTTON[edX-CS50P]`
 
+`BUTTON[cs50p, edX-CS50P]` 
 ```meta-bind-button
 label: Return to CS50-P
 icon: "home"
@@ -46,13 +46,27 @@ icon: "arrow-right"
 hidden: true
 class: worksheet-button
 tooltip: ""
-id: "cs50p-getstartedinvscode"
+id: "next"
 style: primary
 actions:
   - type: open
     link: "[[Get Started in VS Code]]"
 
 ```
+```meta-bind-button
+label: "Previous: Functions & Variables"
+icon: "arrow-left"
+hidden: true
+class: navigation-buttons
+tooltip: ""
+id: previous
+style: primary
+actions:
+  - type: open
+    link: "[[Functions & Variables]]"
+
+```
+
 # Lecture 0: Functions & Variables
 ---
 
@@ -641,5 +655,4 @@ Through the work of this single lecture, you have learned abilities that you wil
 
 
 
-
-`BUTTON[cs50p]` `BUTTON[cs50p-getstartedinvscode]`
+`BUTTON[previous, next]`

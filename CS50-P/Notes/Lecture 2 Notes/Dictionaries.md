@@ -12,6 +12,8 @@ cover: dictionaries.jpg
 description: Supplemental video on dictionaries.
 ---
 
+`BUTTON[cs50p, edX-CS50P]`
+
 ```meta-bind-button
 label: Return to CS50-P
 icon: "home"
@@ -138,4 +140,4 @@ main()
 ```
 
 
-`BUTTON[previous]` `BUTTON[next]`
+`BUTTON[previous, next]`

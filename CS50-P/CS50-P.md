@@ -12,7 +12,7 @@ cover: CS50P_pll.png
 description: This course introduces programming with Python, covering fundamentals like variables, conditionals, loops, functions, classes, exception handling, file I/O, and regular expressions. Students gain hands-on experience through exercises inspired by real-world problems, learning to write, test, and debug code effectively.
 ---
 
-`BUTTON[cs50p]` `BUTTON[edX-CS50P]`
+`BUTTON[cs50p, edX-CS50P]` 
 
 ```meta-bind-button
 label: Return to CS50-P
@@ -178,7 +178,7 @@ Whereas [CS50x](https://cs50.harvard.edu/x) itself focuses on computer science
 
 
 
-`BUTTON[previous]` `BUTTON[next]`
+`BUTTON[previous, next]`
 
 
 

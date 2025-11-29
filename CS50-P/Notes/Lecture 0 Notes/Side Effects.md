@@ -12,7 +12,7 @@ cover: sideeffects.jpg
 description: Supplemental video on side effects, which are things that get changed while a function is running but are NOT return values.
 ---
 
-`BUTTON[cs50p]` `BUTTON[edX-CS50P]`
+`BUTTON[cs50p, edX-CS50P]` 
 
 ```meta-bind-button
 label: Return to CS50-P
@@ -100,4 +100,4 @@ main()
 ```
 
 
-`BUTTON[previous]` `BUTTON[next]`
+`BUTTON[previous, next]`
