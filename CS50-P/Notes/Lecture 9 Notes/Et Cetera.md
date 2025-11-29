@@ -12,7 +12,7 @@ cover: etc.jpg
 description: "`set`. `global`. Constants. Type Hints. `mypy`. Docstrings. `argparse`. Unpacking. `*args`. `**kwargs`. `print`. `map`. List Comprehensions. `filter`. Dictionary Comprehensions. `enumerate`. Generators. `yield`. Iterators."
 ---
 
-`BUTTON[cs50p]` `BUTTON[edX-CS50P]`
+`BUTTON[cs50p, edX-CS50P]`
 
 ```meta-bind-button
 label: Return to CS50-P
@@ -1015,4 +1015,4 @@ You may already see that `number = input("Number: )"` returns a `string`, not
 
 
 
-`BUTTON[previous]` `BUTTON[next]`
+`BUTTON[previous, next]`

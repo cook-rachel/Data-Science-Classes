@@ -12,7 +12,7 @@ cover: camelcase.jpg
 description: In a file called camel.py, implement a program that prompts the user for the name of a variable in camel case and outputs the corresponding name in snake case. Assume that the user’s input will indeed be in camel case.
 ---
 
-`BUTTON[cs50p]` `BUTTON[edX-CS50P]`
+`BUTTON[cs50p, edX-CS50P]`
 
 ```meta-bind-button
 label: Return to CS50-P
@@ -196,4 +196,4 @@ main()
 ```
 
 
-`BUTTON[previous]` `BUTTON[next]`
+`BUTTON[previous, next]`

@@ -12,7 +12,7 @@ cover: regularexpressions.jpg
 description: Regular Expressions. Regexes. re. re.search. re.match. re.fullmatch. re.sub. re.split. re.findall.
 ---
 
-`BUTTON[cs50p]` `BUTTON[edX-CS50P]`
+`BUTTON[cs50p, edX-CS50P]`
 
 ```meta-bind-button
 label: Return to CS50-P
@@ -668,4 +668,4 @@ Now, you’ve learned a whole new language of regular expressions that can be ut
 - Extracting User Input
 
 
-`BUTTON[previous]` `BUTTON[next]`
+`BUTTON[previous, next]`

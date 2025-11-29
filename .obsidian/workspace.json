@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "7f976bbd441322de",
+        "id": "21bb47727bebe64d",
         "type": "tabs",
         "children": [
           {
-            "id": "631f225227be1f6d",
+            "id": "d21d0fa6787180b1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS50-P/CS50-P.md",
+                "file": "Class Directory.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CS50-P"
+              "title": "Class Directory"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "776bbc510c5125e6",
@@ -171,16 +170,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "631f225227be1f6d",
+  "active": "28e838c0ce215b34",
   "lastOpenFiles": [
+    "Tableau eLearning",
+    "Templates/Class Outline Template.md",
+    "CS50-P/CS50-P.md",
+    "CS50-P/CS50-P copy.md",
+    "Class Directory.md",
     "CS50-P/Notes/Lecture 9 Notes/Recursion.md",
     "CS50-P/Notes/Lecture 9 Notes/Et Cetera.md",
     "CS50-P/Notes/Lecture 8 Notes/CS50 Shirtificate.md",
     "CS50-P/Notes/Lecture 8 Notes/Cookie Jar.md",
     "CS50-P/Notes/Lecture 8 Notes/Seasons of Love.md",
     "CS50-P/Notes/Lecture 8 Notes/Instance Methods.md",
-    "CS50-P/CS50-P.md",
-    "Class Directory.md",
     "CS50-P/Notes/Lecture 9 Notes/Final Project.md",
     "CS50-P/Notes/Lecture 8 Notes/Instance Variables.md",
     "CS50-P/Notes/Lecture 8 Notes/Class Methods & Class Variables.md",
@@ -196,9 +198,6 @@
     "CS50-P/Notes/Lecture 7 Notes/Regular Expressions.md",
     "CS50-P/Notes/Lecture 6 Notes/CS50 P-Shirt.md",
     "CS50-P/Notes/Lecture 6 Notes/Scourgify.md",
-    "CS50-P/Notes/Lecture 6 Notes/Pizza Py.md",
-    "CS50-P/Notes/Lecture 6 Notes/Lines of Code.md",
-    "CS50-P/Notes/Lecture 6 Notes/Reading and Writing Files.md",
     "CS50-P/Scripts/Lecture 4 Scripts/museum_rs",
     "CS50-P/Scripts/Lecture 4 Scripts/figlet.py",
     "CS50-P/Scripts/Lecture 4 Scripts/__pycache__",

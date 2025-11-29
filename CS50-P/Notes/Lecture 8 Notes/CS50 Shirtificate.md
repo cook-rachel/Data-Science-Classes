@@ -12,7 +12,7 @@ cover: shirtificate.jpg
 description: In a file called `shirtificate.py`, implement a program that prompts the user for their name and outputs, using [fpdf2](https://pypi.org/project/fpdf2/), a CS50 shirtificate in a file called `shirtificate.pdf` similar to [this one for John Harvard](https://cs50.harvard.edu/python/psets/8/shirtificate/jharvard.pdf)
 ---
 
-`BUTTON[cs50p]` `BUTTON[edX-CS50P]`
+`BUTTON[cs50p, edX-CS50P]`
 
 ```meta-bind-button
 label: Return to CS50-P
@@ -163,4 +163,4 @@ submit50 cs50/problems/2022/python/shirtificate
 ```
 
 
-`BUTTON[previous]` `BUTTON[next]`
+`BUTTON[previous, next]`

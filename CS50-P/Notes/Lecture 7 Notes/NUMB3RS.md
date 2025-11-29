@@ -12,7 +12,7 @@ cover: numbers.jpg
 description: In a file called `numb3rs.py`, implement a function called `validate` that expects an IPv4 address as input as a `str` and then returns `True` or `False`, respectively, if that input is a valid IPv4 address or not.
 ---
 
-`BUTTON[cs50p]` `BUTTON[edX-CS50P]`
+`BUTTON[cs50p, edX-CS50P]`
 
 ```meta-bind-button
 label: Return to CS50-P
@@ -201,4 +201,4 @@ submit50 cs50/problems/2022/python/numb3rs
 ```
 
 
-`BUTTON[previous]` `BUTTON[next]`
+`BUTTON[previous, next]`

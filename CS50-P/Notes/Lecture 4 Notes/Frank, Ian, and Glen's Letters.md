@@ -12,7 +12,7 @@ cover: letters.jpg
 description: "In a file called `figlet.py`, implement a program that:- Expects zero or two command-line arguments:   Zero if the user would like to output text in a random font ; two if the user would like to output text in a specific font, in which case the first of the two should be `-f` or `--font`, and the second of the two should be the name of the font."
 ---
 
-`BUTTON[cs50p]` `BUTTON[edX-CS50P]`
+`BUTTON[cs50p, edX-CS50P]`
 
 ```meta-bind-button
 label: Return to CS50-P
@@ -293,4 +293,4 @@ else:
 ```
 
 
-`BUTTON[previous]` `BUTTON[next]`
+`BUTTON[previous, next]`

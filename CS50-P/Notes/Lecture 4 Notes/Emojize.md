@@ -12,7 +12,7 @@ cover: emojize.jpg
 description: In a file called `emojize.py`, implement a program that prompts the user for a `str` in English and then outputs the “emojized” version of that `str`, converting any codes (or aliases) therein to their corresponding emoji.
 ---
 
-`BUTTON[cs50p]` `BUTTON[edX-CS50P]`
+`BUTTON[cs50p, edX-CS50P]`
 
 ```meta-bind-button
 label: Return to CS50-P
@@ -182,4 +182,4 @@ print(emoji.emojize(f"Output: {userinput}", language = 'alias'))
 ```
 
 
-`BUTTON[previous]` `BUTTON[next]`
+`BUTTON[previous, next]`

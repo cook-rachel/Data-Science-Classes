@@ -12,7 +12,7 @@ cover: cs50pshirt.jpg
 description: "In a file called `shirt.py`, implement a program that expects exactly two command-line arguments: in `sys.argv[1]`, the name (or path) of a JPEG or PNG to read (i.e., open) as input; in `sys.argv[2]`, the name (or path) of a JPEG or PNG to write (i.e., save) as output"
 ---
 
-`BUTTON[cs50p]` `BUTTON[edX-CS50P]`
+`BUTTON[cs50p, edX-CS50P]`
 
 ```meta-bind-button
 label: Return to CS50-P
@@ -293,4 +293,4 @@ main()
 ```
 
 
-`BUTTON[previous]` `BUTTON[next]`
+`BUTTON[previous, next]`

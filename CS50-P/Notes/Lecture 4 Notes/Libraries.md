@@ -12,7 +12,7 @@ cover: libaries.jpg
 description: Modules. random. import. from. statistics. Command-Line Arguments. sys. sys.argv. IndexError. sys.exit. Slices. Packages. PyPI. pip. cowsay. APIs. requests. JSON. __name__.
 ---
 
-`BUTTON[cs50p]` `BUTTON[edX-CS50P]`
+`BUTTON[cs50p, edX-CS50P]`
 
 ```meta-bind-button
 label: Return to CS50-P
@@ -390,4 +390,4 @@ Libraries extend the abilities of Python. Some libraries are included by default
 - Making Your Own Libraries
 
 
-`BUTTON[previous]` `BUTTON[next]`
+`BUTTON[previous, next]`

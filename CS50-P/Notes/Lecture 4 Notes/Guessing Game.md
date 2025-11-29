@@ -12,7 +12,7 @@ cover: guessinggame.jpg
 description: "In a file called `game.py`, implement a program that: Prompts the user for a level, n. If the user does not input a positive integer, the program should prompt again. Randomly generates an integer between 1 and n, inclusive, using the `random` module. Prompts the user to guess that integer. If the guess is not a positive integer, the program should prompt the user again."
 ---
 
-`BUTTON[cs50p]` `BUTTON[edX-CS50P]`
+`BUTTON[cs50p, edX-CS50P]`
 
 ```meta-bind-button
 label: Return to CS50-P
@@ -261,5 +261,4 @@ def get_positive_int(prompt):
 main()
 ```
 
-
-`BUTTON[previous]` `BUTTON[next]`
+`BUTTON[previous, next]`

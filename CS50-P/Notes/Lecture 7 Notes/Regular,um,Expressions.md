@@ -12,7 +12,7 @@ cover: regularumexpressions.jpg
 description: In a file called `um.py`, implement a function called `count` that expects a line of text as input as a `str` and returns, as an `int`, the number of times that “um” appears in that text, case-insensitively, as a word unto itself, not as a substring of some other word. For instance, given text like `hello, um, world`, the function should return `1`. Given text like `yummy`, though, the function should return `0`.
 ---
 
-`BUTTON[cs50p]` `BUTTON[edX-CS50P]`
+`BUTTON[cs50p, edX-CS50P]`
 
 ```meta-bind-button
 label: Return to CS50-P
@@ -199,5 +199,4 @@ In your terminal, execute the below to submit your work.
 submit50 cs50/problems/2022/python/um
 ```
 
-
-`BUTTON[previous]` `BUTTON[next]`
+`BUTTON[previous, next]`

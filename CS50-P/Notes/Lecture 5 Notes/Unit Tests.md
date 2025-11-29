@@ -12,7 +12,7 @@ cover: unittests.jpg
 description: assert. AssertionError. pytest. Packages. __init__.py.
 ---
 
-`BUTTON[cs50p]` `BUTTON[edX-CS50P]`
+`BUTTON[cs50p, edX-CS50P]`
 
 ```meta-bind-button
 label: Return to CS50-P
@@ -456,4 +456,4 @@ Testing your code is a natural part of the programming process. Unit tests allow
 - `pytest`
 
 
-`BUTTON[previous]` `BUTTON[next]`
+`BUTTON[previous, next]`

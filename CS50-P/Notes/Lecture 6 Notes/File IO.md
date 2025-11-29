@@ -12,7 +12,7 @@ cover: fileio.jpg
 description: list. open. with. sorted. CSV. dict. csv. PIL.
 ---
 
-`BUTTON[cs50p]` `BUTTON[edX-CS50P]`
+`BUTTON[cs50p, edX-CS50P]`
 
 ```meta-bind-button
 label: Return to CS50-P
@@ -514,4 +514,4 @@ Now, we have not only seen that we can write and read files textually—we can a
 - `PIL`
 
 
-`BUTTON[previous]` `BUTTON[next]`
+`BUTTON[previous, next]`

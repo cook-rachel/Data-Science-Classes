@@ -12,7 +12,7 @@ cover: ooprogramming.jpg
 description: tuple. Classes. class. Objects. Attributes. Instance Variables. Methods. Instance Methods. __init__. raise. __str__. Properties. @property. Decorators. int. str. str.lower. str.strip. list. list.append. dict. Class Methods. @classmethod. Static Methods. @staticmethod. Inheritance. BaseException. Operator Overloading. object.__add__.
 ---
 
-`BUTTON[cs50p]` `BUTTON[edX-CS50P]`
+`BUTTON[cs50p, edX-CS50P]`
 
 ```meta-bind-button
 label: Return to CS50-P
@@ -828,4 +828,4 @@ Now, you’ve learned a whole new level of capability through object-oriented pr
 - Operator Overloading
 
 
-`BUTTON[previous]` `BUTTON[next]`
+`BUTTON[previous, next]`

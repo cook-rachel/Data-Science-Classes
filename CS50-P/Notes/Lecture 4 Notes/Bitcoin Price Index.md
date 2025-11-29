@@ -12,7 +12,7 @@ cover: bitcoinpriceindex.jpg
 description: "In a file called `bitcoin.py`, implement a program that: Expects the user to specify as a command-line argument the number of Bitcoins, n, that they would like to buy. If that argument cannot be converted to a `float`, the program should exit via `sys.exit` with an error message. Queries the API for the CoinCap Bitcoin Price Index at [rest.coincap.io/v3/assets/bitcoin?apiKey=YourApiKey](https://rest.coincap.io/v3/assets/bitcoin?apiKey=YourApiKey). You should replace `YourApiKey` with the actual API key you obtained from your CoinCap account dashboard, which returns a [JSON](https://en.wikipedia.org/wiki/JSON) object, among whose nested keys is the current price of Bitcoin as a `float`."
 ---
 
-`BUTTON[cs50p]` `BUTTON[edX-CS50P]`
+`BUTTON[cs50p, edX-CS50P]`
 
 ```meta-bind-button
 label: Return to CS50-P
@@ -294,4 +294,4 @@ if __name__ == "__main__":
 ```
 
 
-`BUTTON[previous]` `BUTTON[next]`
+`BUTTON[previous, next]`

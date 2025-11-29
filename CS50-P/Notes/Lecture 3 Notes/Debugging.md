@@ -12,7 +12,7 @@ cover: debugging.jpg
 description: Supplemental video on debugging using the debugger.
 ---
 
-`BUTTON[cs50p]` `BUTTON[edX-CS50P]`
+`BUTTON[cs50p, edX-CS50P]`
 
 ```meta-bind-button
 label: Return to CS50-P
@@ -109,4 +109,4 @@ main() ## set breakpoint here, step into
 ```
 
 
-`BUTTON[previous]` `BUTTON[next]`
+`BUTTON[previous, next]`

@@ -12,7 +12,7 @@ cover: refueling.jpg
 description: In a file called `fuel.py`, reimplement [Fuel Gauge](https://cs50.harvard.edu/python/2022/psets/3/fuel/) from [Problem Set 3](https://cs50.harvard.edu/python/2022/psets/3/), restructuring your code per the below.
 ---
 
-`BUTTON[cs50p]` `BUTTON[edX-CS50P]`
+`BUTTON[cs50p, edX-CS50P]`
 
 ```meta-bind-button
 label: Return to CS50-P
@@ -263,4 +263,4 @@ def test_gauge():
 ```
 
 
-`BUTTON[previous]` `BUTTON[next]`
+`BUTTON[previous, next]`

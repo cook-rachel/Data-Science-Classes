@@ -12,7 +12,7 @@ cover: seasonsoflove.jpg
 description:
 ---
 
-`BUTTON[cs50p]` `BUTTON[edX-CS50P]`
+`BUTTON[cs50p, edX-CS50P]`
 
 ```meta-bind-button
 label: Return to CS50-P
@@ -183,5 +183,4 @@ submit50 cs50/problems/2022/python/seasons
 ```
 
 
-
-`BUTTON[previous]` `BUTTON[next]`
+`BUTTON[previous, next]`

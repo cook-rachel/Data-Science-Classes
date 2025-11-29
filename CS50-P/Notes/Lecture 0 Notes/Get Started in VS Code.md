@@ -12,7 +12,7 @@ cover: installpython.jpg
 description: A quick-start guide for installing Python, configuring Conda, and setting up VS Code to run code smoothly. It also includes essential terminal commands and notes on basic Python concepts like functions and parameters.
 ---
 
-`BUTTON[cs50p]` `BUTTON[edX-CS50P]`
+`BUTTON[cs50p, edX-CS50P]` 
 
 # Lecture 0: Get Started in VS Code
 ---
@@ -104,4 +104,4 @@ actions:
 
 
 
-`BUTTON[previous]` `BUTTON[next]`
+`BUTTON[previous, next]`
