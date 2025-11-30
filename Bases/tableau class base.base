@@ -1,0 +1,7 @@
+views:
+  - type: cards
+    name: Tableau
+    filters:
+      and:
+        - university == "Tableau eLearning"
+    image: note.cover

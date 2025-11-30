@@ -84,3 +84,17 @@
 	color: white
 	
 }
+
+
+.outside-buttons-center {
+    text-align: center; 
+} 
+
+.outside-buttons-center button {
+	font-weight: bold !important;
+	width: 49% !important;
+	height: auto; 
+	background-color: #E04810;
+	color: white
+	
+}

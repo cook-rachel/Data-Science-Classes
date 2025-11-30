@@ -1,43 +1,41 @@
 ---
 tags:
-  - du
   - datascience
-  - python
-  - lecture0
   - notes
-university:
-year:
-link:
+  - tableau
+university: Tableau eLearning
+year: "2025"
+link: https://elearning.tableau.com/path/analyst-learning-path
 cover:
 description:
 ---
 
-`BUTTON[cs50p, edX-CS50P]`
+`BUTTON[class_home, class_link]`
 
 ```meta-bind-button
-label: Return to CS50-P
+label: Return to Analyst Learning Path
 icon: "home"
 hidden: true
 class: navigation-buttons
 tooltip: ""
-id: cs50p
+id: class_home
 style: primary
 actions:
   - type: open
-    link: "[[CS50-P]]"
+    link: "[[Analyst Learning Path]]"
 
 ```
 ```meta-bind-button
-label: CS50-P Course on edX
+label: Analyst Learning Path
 icon: "globe"
 hidden: true
 class: course-navigation-buttons
 tooltip: ""
-id: "edX-CS50P"
+id: class_link
 style: primary
 actions:
   - type: open
-    link: "https://cs50.harvard.edu/python/"
+    link: "https://elearning.tableau.com/path/analyst-learning-path"
 
 ```
 ```meta-bind-button
@@ -110,6 +108,15 @@ main()
 
 > [!example|callout_tip] Tip:
 > Text here
+
+
+
+```button
+name Open aggregation_granularity_and_ratio_calculations.zip
+type link
+action file:////Users/rachel/Library/CloudStorage/SynologyDrive-SharkologyDC/GitHub Repos/Data-Science-Classes/Tableau eLearning/downloadable data/aggregation_granularity_and_ratio_calculations.zip
+color blue
+```
 
 
 `BUTTON[previous, next]`

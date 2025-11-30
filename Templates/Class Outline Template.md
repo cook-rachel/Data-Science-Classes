@@ -12,32 +12,19 @@ cover:
 description:
 ---
 
-`BUTTON[previous, edX-CS50P]` 
+`BUTTON[previous, class_link]` 
 
 ```meta-bind-button
-label: Return to CS50-P
-icon: "home"
-hidden: true
-class: navigation-buttons
-tooltip: ""
-id: cs50p
-style: primary
-actions:
-  - type: open
-    link: "[[CS50-P]]"
-
-```
-```meta-bind-button
-label: CS50-P Course on edX
+label: Analyst Learning Path
 icon: "globe"
 hidden: true
 class: course-navigation-buttons
 tooltip: ""
-id: "edX-CS50P"
+id: class_link
 style: primary
 actions:
   - type: open
-    link: "https://cs50.harvard.edu/python/"
+    link: "https://elearning.tableau.com/path/analyst-learning-path"
 
 ```
 ```meta-bind-button
@@ -46,7 +33,7 @@ icon: "arrow-right"
 hidden: true
 class: worksheet-button
 tooltip: ""
-id: "next"
+id: next
 style: primary
 actions:
   - type: open

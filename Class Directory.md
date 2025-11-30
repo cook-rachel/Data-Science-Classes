@@ -8,5 +8,8 @@ cssclasses:
 
 
 ## Harvard edX
+![[harvard class base.base]]
 
-![[Class Base.base]]
+
+## Tableau eLearning
+![[tableau class base.base]]
