@@ -1,0 +1,11 @@
+views:
+  - type: cards
+    name: DU classes
+    filters:
+      and:
+        - file.tags.contains("class")
+        - file.folder != "Templates"
+        - university == "University of Denver"
+    image: note.cover
+    imageAspectRatio: 0.7
+    cardSize: 200

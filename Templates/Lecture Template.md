@@ -8,6 +8,7 @@ year: "2025"
 link: https://elearning.tableau.com/path/analyst-learning-path
 cover:
 description:
+course id: COMP 3005
 ---
 
 `BUTTON[class_home, class_link]`

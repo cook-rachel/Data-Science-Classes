@@ -4,4 +4,6 @@ views:
     filters:
       and:
         - university == "Tableau eLearning"
+        - file.tags.contains("course")
     image: note.cover
+    imageAspectRatio: 0.7

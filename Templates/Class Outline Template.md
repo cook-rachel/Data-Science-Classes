@@ -10,10 +10,24 @@ year:
 link:
 cover:
 description:
+course id: COMP 3005
 ---
 
-`BUTTON[previous, class_link]` 
+`BUTTON[class_home, class_link]` 
 
+```meta-bind-button
+label: Return to Analyst Learning Path
+icon: "home"
+hidden: true
+class: navigation-buttons
+tooltip: ""
+id: class_home
+style: primary
+actions:
+  - type: open
+    link: "[[Analyst Learning Path]]"
+
+```
 ```meta-bind-button
 label: Analyst Learning Path
 icon: "globe"

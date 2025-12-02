@@ -20,7 +20,7 @@ views:
       - description
     image: note.cover
     cardSize: 200
-    imageAspectRatio: 0.55
+    imageAspectRatio: 0.7
   - type: cards
     name: All Classes
     filters:
@@ -34,17 +34,6 @@ views:
     imageAspectRatio: 0.55
     image: note.cover
     cardSize: 190
-  - type: table
-    name: Table
-    order:
-      - file.name
-      - tags
-      - university
-      - year
-      - link
-    sort:
-      - property: tags
-        direction: ASC
   - type: cards
     name: CS50-P Lessons
     filters:
